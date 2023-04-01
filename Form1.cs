@@ -9,13 +9,13 @@ using System.Windows.Forms;
 namespace MouthXY
 {
 
-    public partial class Form1 : Form
+    public partial class MouseXY : Form
     {
         int mode = 1;
         bool isMouseState = false;
         int posRecordsX=0;
         int posRecordsY=0;
-        public Form1()
+        public MouseXY()
         {
 
             InitializeComponent();

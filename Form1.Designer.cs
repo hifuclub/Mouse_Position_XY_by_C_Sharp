@@ -1,7 +1,7 @@
 ﻿
 namespace MouthXY
 {
-    partial class Form1
+    partial class MouseXY
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -49,16 +49,16 @@ namespace MouthXY
             this.timer1.Enabled = true;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick_1);
             // 
-            // Form1
+            // MouseXY
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(277, 92);
+            this.ClientSize = new System.Drawing.Size(283, 92);
             this.Controls.Add(this.label1);
             this.Location = new System.Drawing.Point(500, 500);
-            this.Name = "Form1";
+            this.Name = "MouseXY";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            this.Text = "Form1";
+            this.Text = "MouseXY_v1.01";
             this.ResumeLayout(false);
 
         }
