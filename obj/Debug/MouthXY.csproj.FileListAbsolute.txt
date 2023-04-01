@@ -1,0 +1,10 @@
+C:\Users\sym\source\repos\MouthXY\bin\Debug\MouthXY.exe
+C:\Users\sym\source\repos\MouthXY\bin\Debug\MouthXY.pdb
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.Form1.resources
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.Properties.Resources.resources
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.csproj.GenerateResource.cache
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.csproj.CoreCompileInputs.cache
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.exe
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.pdb
+C:\Users\sym\source\repos\MouthXY\obj\Debug\MouthXY.csproj.AssemblyReference.cache
+C:\Users\sym\source\repos\MouthXY\bin\Debug\MouthXY.exe.config
